@@ -493,3 +493,31 @@ var student=[
  console.log(`C= ${c[0]} `)
  console.log(`D= ${d[0]} , ${d[1]} `)
  
+
+
+
+
+
+ var anotherStudent={   
+    roll:11,
+    name:"Ashik",
+    marks:{
+        Bangla:40,
+        English:48,
+        Math:68,
+        Science:57,
+        ReligiousStudy:20
+
+    }
+    
+    
+};
+
+
+// var element = {}
+// element = anotherStudent 
+
+// student.push(element)
+ 
+ 
+//  console.log(student);
